@@ -9,7 +9,7 @@ Computer Science And Engineering
 Daffodil International University
 
 contact:
-https://marjuk-ahmed-siddiki.github.io/marjuk.github.io/contact.html
+https://marjukahmedsiddiki.blogspot.com/p/contact-me.html
 
 linkedin:- https://www.linkedin.com/in/marjukahmed
 © 2020 GitHub, Inc.
